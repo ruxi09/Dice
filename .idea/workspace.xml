@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7130fb2-419e-4494-9d4b-e3372802d643" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WG35Ioli9iyzpAKmK9dDs3LAiu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.games.Craps" />
+      <module name="dice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.games.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Craps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7130fb2-419e-4494-9d4b-e3372802d643" name="Default Changelist" comment="" />
+      <created>1578761919638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578761919638</updated>
+      <workItem from="1578761921274" duration="2245000" />
+      <workItem from="1578837932483" duration="2305000" />
+      <workItem from="1578840978622" duration="1000" />
+      <workItem from="1578848232438" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="98" key="#Craps" timestamp="1578839866539">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="396" y="98" key="#Craps/0.23.1440.822@0.23.1440.822" timestamp="1578839866539" />
+    <state x="321" y="99" width="811" height="671" key="#Project_Structure" timestamp="1578761926301">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="321" y="99" width="811" height="671" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1578761926301" />
+    <state x="457" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578839847355">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="457" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.822@0.23.1440.822" timestamp="1578839847355" />
+    <state x="280" y="107" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578838503341">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="280" y="107" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.825@0.23.1440.825" timestamp="1578838503341" />
+    <state x="280" y="107" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.826@0.23.1440.826" timestamp="1578837571071" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1578840799705">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578840799705" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1578840799704">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578840799704" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1578840799704">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578840799704" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1578840799705">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578840799705" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1578838474467">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1578838474467" />
+    <state x="269" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1578837931565">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="269" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1578837931565" />
+    <state x="386" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1578838485414">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="386" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1578838485414" />
+    <state x="386" y="173" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1578837545792" />
+  </component>
+</project>
